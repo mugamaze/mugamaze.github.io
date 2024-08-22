@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mugamaze.github.io/sitemap.html.gz
+Sitemap: https://mugamaze.github.io/app/sitemap.html.gz
+Sitemap: https://mugamaze.github.io/assets/sitemap.html.gz
+Sitemap: https://mugamaze.github.io/css/sitemap.html.gz
+Sitemap: https://mugamaze.github.io/includes/sitemap.html.gz
+Sitemap: https://mugamaze.github.io/item/sitemap.html.gz
+Sitemap: https://mugamaze.github.io/src/sitemap.html.gz
